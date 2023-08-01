@@ -9,11 +9,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brxyxn&color=0e75b6&style=flat" alt="brxyxn" /> </p>
 
+## About me
+
 - 🌱 I’m currently learning **dart, ruby on rails 7, angular@stable, and devops**
 - 👯 I’m looking to collaborate on **educational projects**
 - 🤝 I’m looking for help with **starting an open-source project**
 
-## Languages and Tools
+## Tech Stack
 
 ### Backend
 
