@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Brayan Lopez</h1>
-<h2 align="center">Full-Stack Developer <a href="https://github.com/telusinternational-is">@telusinternational-is</a></h2>
+<h1 align="center" style="margin:0; padding:10px 0px;border-style: none">Hi 👋, I'm Brayan Lopez <br/>
+Full-Stack Developer <a href="https://github.com/telusinternational-is" style="color:#4ca6a6">@telusinternational-is</a></h1>
+
+<hr style="border: none; height: 2px; background:linear-gradient(355deg, #1c5e65, #53c594);" />
 
 <p align="center">
-<a href="https://linkedin.com/in/brxyxn" target="blank"><img src="assets/badge_linkedin.svg" alt="brxyxn" height="30"/></a>
-<a href="mailto:brxyxn.corp@live.com" target="blank"><img src="assets/badge_outlook.svg" alt="brxyxn.corp@live.com" height="30"/></a>
-<a href="docs/Resume.pdf" download><img src="assets/pdf_download.svg" alt="Resume.pdf" height="30"/></a>
+<a href="https://linkedin.com/in/brxyxn" target="_blank">
+<img src="https://img.shields.io/badge/brxyxn-333333?style=for-the-badge&logo=linkedin&labelColor=4ca6a6" />
+</a>
+<a href="mailto:brxyxn.corp@live.com" target="_blank">
+<img src="https://img.shields.io/badge/brxyxn.corplive.com-333333?style=for-the-badge&logo=microsoftoutlook&labelColor=4ca6a6" />
+</a>
+<a href="https://drive.usercontent.google.com/download?id=1NYuxcIMXriErc9ReUTs3kOEfp4a1GQTE" target="_blank">
+<img src="https://img.shields.io/badge/resume-333333.svg?&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLWZpbGUtdHlwZS1wZGYiCiAgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICA8cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+CiAgPHBhdGggZD0iTTE0IDN2NGExIDEgMCAwIDAgMSAxaDQiIC8+CiAgPHBhdGggZD0iTTUgMTJ2LTdhMiAyIDAgMCAxIDIgLTJoN2w1IDV2NCIgLz4KICA8cGF0aCBkPSJNNSAxOGgxLjVhMS41IDEuNSAwIDAgMCAwIC0zaC0xLjV2NiIgLz4KICA8cGF0aCBkPSJNMTcgMThoMiIgLz4KICA8cGF0aCBkPSJNMjAgMTVoLTN2NiIgLz4KICA8cGF0aCBkPSJNMTEgMTV2NmgxYTIgMiAwIDAgMCAyIC0ydi0yYTIgMiAwIDAgMCAtMiAtMmgtMXoiIC8+Cjwvc3ZnPg==&style=for-the-badge&labelColor=4ca6a6" />
+</a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brxyxn&color=0e75b6&style=flat" alt="brxyxn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brxyxn&color=4ca6a6&style=flat-square" alt="brxyxn" /> </p>
 
 ## About me
 
-- 🌱 I’m currently learning **dart, ruby on rails 7, angular@stable, and devops**
-- 👯 I’m looking to collaborate on **educational projects**
-- 🤝 I’m looking for help with **starting an open-source project**
+- 🌱 Learning: **dart, ruby on rails 7, angular, and devops**
+- 🫡 Looking to collaborate on **educational projects**
+- 🤝 Looking for help with **starting an open-source project**... _more information soon_
 
 ## Tech Stack
 
@@ -86,12 +94,12 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brxyxn&show_icons=true&theme=dark&locale=en&layout=compact" alt="brxyxn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brxyxn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="brxyxn" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brxyxn&show_icons=true&theme=dark&locale=en" alt="brxyxn" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brxyxn&theme=dark" alt="brxyxn" />
+<img src="https://github-readme-stats.vercel.app/api?username=brxyxn&show_icons=true&theme=tokyonight&locale=en" alt="brxyxn" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brxyxn&theme=tokyonight" alt="brxyxn" />
 </p>
 
 <!-- https://cdn.jsdelivr.net/gh/devicons/devicon/icons -->
