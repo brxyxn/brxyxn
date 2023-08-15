@@ -1,16 +1,14 @@
-<h1 align="center" style="margin:0; padding:10px 0px;border-style: none">Hi 👋, I'm Brayan Lopez <br/>
-Full-Stack Developer <a href="https://github.com/telusinternational-is" style="color:#4ca6a6">@telusinternational-is</a></h1>
-
-<hr style="border: none; height: 2px; background:linear-gradient(355deg, #1c5e65, #53c594);" />
+<h1 align="center">Hi 👋, I'm Brayan Lopez <br/>
+Full-Stack Developer <a href="https://github.com/telusinternational-is">@telusinternational-is</a></h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/brxyxn" target="_blank">
+<a href="https://linkedin.com/in/brxyxn">
 <img src="https://img.shields.io/badge/brxyxn-333333?style=for-the-badge&logo=linkedin&labelColor=4ca6a6" />
 </a>
-<a href="mailto:brxyxn.corp@live.com" target="_blank">
+<a href="mailto:brxyxn.corp@live.com">
 <img src="https://img.shields.io/badge/brxyxn.corplive.com-333333?style=for-the-badge&logo=microsoftoutlook&labelColor=4ca6a6" />
 </a>
-<a href="https://drive.usercontent.google.com/download?id=1NYuxcIMXriErc9ReUTs3kOEfp4a1GQTE" target="_blank">
+<a href="https://drive.usercontent.google.com/download?id=1NYuxcIMXriErc9ReUTs3kOEfp4a1GQTE">
 <img src="https://img.shields.io/badge/resume-333333.svg?&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpY29uIGljb24tdGFibGVyIGljb24tdGFibGVyLWZpbGUtdHlwZS1wZGYiCiAgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiCiAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICA8cGF0aCBzdHJva2U9Im5vbmUiIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+CiAgPHBhdGggZD0iTTE0IDN2NGExIDEgMCAwIDAgMSAxaDQiIC8+CiAgPHBhdGggZD0iTTUgMTJ2LTdhMiAyIDAgMCAxIDIgLTJoN2w1IDV2NCIgLz4KICA8cGF0aCBkPSJNNSAxOGgxLjVhMS41IDEuNSAwIDAgMCAwIC0zaC0xLjV2NiIgLz4KICA8cGF0aCBkPSJNMTcgMThoMiIgLz4KICA8cGF0aCBkPSJNMjAgMTVoLTN2NiIgLz4KICA8cGF0aCBkPSJNMTEgMTV2NmgxYTIgMiAwIDAgMCAyIC0ydi0yYTIgMiAwIDAgMCAtMiAtMmgtMXoiIC8+Cjwvc3ZnPg==&style=for-the-badge&labelColor=4ca6a6" />
 </a>
 </p>
@@ -89,7 +87,7 @@ Full-Stack Developer <a href="https://github.com/telusinternational-is" style="c
 
 ## Projects
 
-[*Work in progress*]
+[_Work in progress_]
 
 ---
 
